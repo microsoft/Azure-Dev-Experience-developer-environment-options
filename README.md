@@ -86,6 +86,8 @@ Virtual Desktop Infrastructure (VDI) type solution. Developer has personal deskt
 ![Azure DevBox logical Architecture](./assets/dev-box-architecture.png)
 ![Azure DevBox developer portal](./assets/devbox.png)
 
+You can find details about this option in related article [Azure DevBox as an Azure developer environment](https://github.com/microsoft/azure-dev-experience--azure-devbox)
+
 #### Option - AVD (Azure Virtual Desktop)
 
 Managed VDI solution. 

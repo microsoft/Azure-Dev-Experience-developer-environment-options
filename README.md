@@ -1,6 +1,6 @@
 # Azure Developer Experience - Development Environment Options
 
-Developer (development) environment options for developing Azure based solutions.
+Development environment options for developing Azure based solutions.
 
 ## Problem Definition
 

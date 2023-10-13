@@ -39,7 +39,7 @@ The development environment options described in this article could be broadly c
 
 ![local](./assets/vdi.png)
 
-3) **Remote "Server" based** - Is experience similar to terminal access to remote servers where. In this case an IDE (e.g. VSCode) is capable connecting to the remote server and performing all actions (git clone, compile/build, (unit)testing) on the remote server. Unlike RDP based solutions which in essence transmits series of images of what remote OS is presenting, in the case of "remote server" based solution, IDE receives the "raw" content and performs rendering of the content and initiates the actions which are executed remotely.
+1) **Remote "Server" based** - Is experience similar to terminal access to remote servers. In this case an IDE (e.g. VSCode) is capable connecting to the remote server and performing all actions (git clone, compile/build, (unit)testing) on the remote server. Unlike RDP based solutions which in essence transmits series of images of what remote OS is presenting, in the case of "remote server" based solution, IDE receives the "raw" content and performs rendering of the content and initiates the actions which are executed remotely.
 ![local](./assets/remoteserver.png)
 
 

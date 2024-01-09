@@ -4,7 +4,6 @@ Development environment options for developing Azure based solutions.
 
 > [!NOTE]
 > This is not an official Microsoft product documentation. It is maintained by community contributors.
-> Please get yourself familiar with Azure DevBox https://learn.microsoft.com/en-us/azure/dev-box/overview-what-is-microsoft-dev-box prior to reading this document.
 
 ## Problem Definition
 

@@ -7,8 +7,6 @@ Development environment options for developing Azure based solutions.
 Business solution development team at an enterprise organization requiring strong security controls is facing number of challenges when developing Azure based solutions.
 The following use cases are representing some of the key challenges.
 
-CEB73005-476E-4B38-83D6-02E31B039248
-33E01921-4D64-4F8C-A055-5BDAFFD5E33D
 
 ### 1) Connecting to Azure private IPs from local developer Workstation
 

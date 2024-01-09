@@ -2,6 +2,10 @@
 
 Development environment options for developing Azure based solutions.
 
+> [!NOTE]
+> This is not an official Microsoft product documentation. It is maintained by community contributors.
+> Please get yourself familiar with Azure DevBox https://learn.microsoft.com/en-us/azure/dev-box/overview-what-is-microsoft-dev-box prior to reading this document.
+
 ## Problem Definition
 
 Business solution development team at an enterprise organization requiring strong security controls is facing number of challenges when developing Azure based solutions.
@@ -74,7 +78,7 @@ Remote tunnel is opened via HTTPS to remote VM or Container.
 
 Cloud hosted and fully managed remote DevContainer development environment. 
 
-![Azure DevBox developer portal](./assets/codespaces-diagram.webp)
+![Azure DevBox developer portal](./assets/codespaces-diagram.png)
 ![Azure DevBox developer portal](./assets/codespaces-compute.png)
 
 ### VDI based options
@@ -86,7 +90,8 @@ Virtual Desktop Infrastructure (VDI) type solution. Developer has personal deskt
 ![Azure DevBox logical Architecture](./assets/dev-box-architecture.png)
 ![Azure DevBox developer portal](./assets/devbox.png)
 
-You can find details about this option in related article [Azure DevBox as an Azure developer environment](https://github.com/microsoft/azure-dev-experience--azure-devbox)
+You can find details about this option in related article 
+[Azure Developer Experience - Development Environment Options](./azure-dev-experience--azure-devbox/README.md)
 
 #### Option - AVD (Azure Virtual Desktop)
 

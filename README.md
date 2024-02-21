@@ -1,6 +1,5 @@
 # Azure Developer Experience - Development Environment Options
 
-Development environment options for developing Azure based solutions.
 
 > [!NOTE]
 > This is not an official Microsoft product documentation. It is maintained by community contributors.
